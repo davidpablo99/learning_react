@@ -19,3 +19,13 @@ React é mais produtivo
 React é mais manutenível
 
 React é mais poderoso
+
+------------------------------------------------
+
+Conhecendo o Virtual DOM
+
+O problema das atualizações na interface
+
+A solução do React: o Virtual DOM
+
+Problemas de performance?
